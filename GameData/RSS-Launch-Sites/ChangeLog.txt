@@ -1,0 +1,8 @@
+Alpha 0.1
+- Create White Sands KK group
+  + Height map smoothing decal
+  + Runway 17/35
+  + Runway 5/23
+  + Runway 2/20
+  + Small control tower (oversized for actual location)
+  + Helipad

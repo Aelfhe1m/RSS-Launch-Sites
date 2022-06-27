@@ -1,0 +1,32 @@
+{
+  "NAME"     : "RSS-Launch-Sites",
+  "DOWNLOAD" : "https://github.com/Aelfhe1m/RSS-Launch-Sites/releases",
+  "URL"      : "https://raw.githubusercontent.com/Aelfhe1m/RSS-Launch-Sites/master/GameData/RSS-Launch-Pads/RSS-Launch-Pads.version",
+  "GITHUB" : {
+    "USERNAME"   : "Aelfhe1m",
+    "REPOSITORY" : "RSS-Launch-Sites"
+  },
+  "VERSION" : {
+    "MAJOR" : 0,
+    "MINOR" : 1,
+    "PATCH" : 0,
+    "BUILD" : 0
+  },
+  "KSP_VERSION" : {
+    "MAJOR" : 1,
+    "MINOR" : 12,
+    "PATCH" : 3
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 8,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 99,
+    "BUILD": 0
+  }
+}
