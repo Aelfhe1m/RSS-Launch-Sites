@@ -6,3 +6,10 @@ Alpha 0.1
   + Runway 2/20
   + Small control tower (oversized for actual location)
   + Helipad
+
+Alpha 0.11
+  + V2 Test Centre
+  + LaunchPad
+  + Small building
+
+  
