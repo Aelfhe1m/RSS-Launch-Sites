@@ -16,8 +16,6 @@ NOTE: where necessary KSC Switcher launch site locations may be slightly relocat
 ## White Sands - 32°56′35.67″N 106°25′10.31″W
 * Runway 17/35 (large shuttle landing strip)
 * Runway 5/23 (large shuttle landing strip)
-
-TBC
 * Runway 2/20 (small operational runway)
 * Launch Complex 36 - 32°25′1″N 106°19′19″W
 * V-2 Launching Site - 32°24′4″N 106°22′40″W
