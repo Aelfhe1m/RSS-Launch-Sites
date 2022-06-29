@@ -24,7 +24,7 @@ NOTE: where necessary KSC Switcher launch site locations may be slightly relocat
 
 TBC
 * Spaceport America - 32.9895472,-106.9694681
-** Runway 16/34 3658 x 61m @ 1401m altitude
+    * Runway 16/34 3658 x 61m @ 1401m altitude
 
 ## Edwards AFB
 TDC
