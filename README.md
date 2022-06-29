@@ -4,24 +4,27 @@ Kerbal Konstructs space ports, bases and airfields for RSS. Based (sometimes loo
 NOTE: where necessary KSC Switcher launch site locations may be slightly relocated to avoid overlap.
 
 # Requirements
-- [Kerbal Konstructs](https://forum.kerbalspaceprogram.com/index.php?/topic/204210-ksp-18-kerbal-konstructs-continued/)
-- [Omega's Stockalike Structures (OSSNTR)](https://forum.kerbalspaceprogram.com/index.php?/topic/169891-wip-omega482s-dev-thread-omegas-stockalike-structures-no-textures-required-alpha-now-available/)
-- [Tundra Space Center](https://forum.kerbalspaceprogram.com/index.php?/topic/174368-18-112-tundras-space-center-v20-december-18th-stockalike-ksc-launchpads/)
+[Kerbal Konstructs](https://forum.kerbalspaceprogram.com/index.php?/topic/204210-ksp-18-kerbal-konstructs-continued/)
+[Omega's Stockalike Structures (OSSNTR)](https://forum.kerbalspaceprogram.com/index.php?/topic/169891-wip-omega482s-dev-thread-omegas-stockalike-structures-no-textures-required-alpha-now-available/)
+[Tundra Space Center](https://forum.kerbalspaceprogram.com/index.php?/topic/174368-18-112-tundras-space-center-v20-december-18th-stockalike-ksc-launchpads/)
 
 # Optional supported mods
-- [NavUtilities](https://forum.kerbalspaceprogram.com/index.php?/topic/204929-112x-navutilities-continued-ft-hsi-instrument-landing-system/) - included runway definitions for landing guidance
+[NavUtilities](https://forum.kerbalspaceprogram.com/index.php?/topic/204929-112x-navutilities-continued-ft-hsi-instrument-landing-system/) - included runway definitions for landing guidance
 
 # Locations
 
 ## White Sands - 32°56′35.67″N 106°25′10.31″W
-- Runway 17/35 (large shuttle landing strip)
-- Runway 5/23 (large shuttle landing strip)
-- Runway 2/20 (small operational runway)
-- V-2 Launching Site - 32°24′4″N 106°22′40″W
+* Runway 17/35 (large shuttle landing strip)
+* Runway 5/23 (large shuttle landing strip)
+* Runway 2/20 (small operational runway)
+* Helipad and control tower near runways
+* Launch Complex 36 - 32°25′1″N 106°19′19″W
+* V-2 Launching Site - 32°24′4″N 106°22′40″W
+* Relocate KSC Switcher White Sands to north of custom KK group
 
 TBC
-- Launch Complex 36 - 32°25′1″N 106°19′19″W
-- Relocate KSC Switcher White Sands to north of custom KK group
+* Spaceport America - 32.9895472,-106.9694681
+** Runway 16/34 3658 x 61m @ 1401m altitude
 
 ## Edwards AFB
 TDC
